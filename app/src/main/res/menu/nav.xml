@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:background="#00D36D">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:typeface="monospace"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_quiz"
+        android:typeface="monospace"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Quiz" />
+
+    <item
+        android:id="@+id/navigation_progress"
+        android:typeface="monospace"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Progress" />
+
+</menu>
