@@ -13,5 +13,5 @@ someone can learn from what I did. This also personally has helped me learn word
 
 App In Action
 -------------
-First is a demonstration of how to create an account.
+### First is a demonstration of how to create an account.
 <img src="AccountCreation.gif"></img>
