@@ -1,4 +1,6 @@
 This app was made with the help of some 3rd Party Software:
+DataSet Pulled From:
+https://www.freevocabulary.com/vocabulary.pdf
 
 GraphView:
 Copyright 2016 Jonas Gehring
