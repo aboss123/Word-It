@@ -20,7 +20,7 @@ App In Action
 <img src="AccountCreation.gif"></img>
 
 ### Now we can actually start quizzing ourselves
-<img src="Quizzing.gif"></img>
+<img src="quiz.gif"></img>
 
 ### After all that, we can check our progress
 <img src="Progress.png"></img>
