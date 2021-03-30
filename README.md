@@ -28,3 +28,4 @@ App In Action
 Licence
 -------------
 This code is licensed under the terms of the MIT License.
+The images and logo, etc. are licensed under the terms of: https://creativecommons.org/licenses/by-nc/2.0/
