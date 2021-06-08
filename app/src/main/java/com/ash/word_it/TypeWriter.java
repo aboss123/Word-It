@@ -22,7 +22,7 @@ public class TypeWriter extends androidx.appcompat.widget.AppCompatTextView {
         super(context, attr);
     }
 
-    private Runnable ccadr = new Runnable() {
+    private Runnable writer = new Runnable() {
         @Override
         public void run() {
             setText(text.subSequence(0, ++idx));
@@ -38,8 +38,8 @@ public class TypeWriter extends androidx.appcompat.widget.AppCompatTextView {
         delay = d;
         setText("");
 
-        handler.removeCallbacks(ccadr);
-        handler.postDelayed(ccadr, delay);
+        handler.removeCallbacks(writer);
+        handler.postDelayed(writer, delay);
         handler.postDelayed(runnable, 2150);
     }
 
