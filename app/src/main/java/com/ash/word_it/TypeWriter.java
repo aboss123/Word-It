@@ -5,6 +5,7 @@ import android.os.Handler;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
+// https://www.youtube.com/watch?v=4JUWmX1lK4o --- Based on Typewriter tutorial
 public class TypeWriter extends androidx.appcompat.widget.AppCompatTextView {
 
     private CharSequence text;
